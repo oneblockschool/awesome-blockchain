@@ -9,7 +9,7 @@
   <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
  </a>
  <p>
-  <sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Follow me on <a href="https://twitter.com/asutosh_05">Twitter</a>.</sub>
+Follow me on <a href="https://twitter.com/asutosh_05">Twitter</a>.</sub>
  </p>
  <br>
  <p>
