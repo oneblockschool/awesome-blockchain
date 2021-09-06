@@ -49,10 +49,10 @@ Follow me on <a href="https://twitter.com/asutosh_05">Twitter</a>.</sub>
 
 ### Cryptography
 
-- [Encryption](#https://www.youtube.com/watch?v=AQDCe585Lnc)
-- [AES](#https://www.youtube.com/watch?v=O4xNJsjtN6E)
-- [Hashing](#https://www.youtube.com/watch?v=b4b8ktEV4Bg)
-- [Hashing Vs Encryption](#https://www.youtube.com/watch?v=GI790E1JMgw)
+- [Encryption](https://www.youtube.com/watch?v=AQDCe585Lnc)
+- [AES](https://www.youtube.com/watch?v=O4xNJsjtN6E)
+- [Hashing](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
+- [Hashing Vs Encryption](https://www.youtube.com/watch?v=GI790E1JMgw)
 
 
 ### What is Blockchain?
