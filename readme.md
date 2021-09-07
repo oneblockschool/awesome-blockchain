@@ -75,6 +75,13 @@ Follow me on <a href="https://twitter.com/asutosh_05">Twitter</a>.</sub>
 
 - [Build a blockchain with Golang](https://www.youtube.com/playlist?list=PLpP5MQvVi4PGmNYGEsShrlvuE2B33xV1L)
 
+### Lets Learn Solidity !!!
+
+- [Beginner Level](https://www.youtube.com/watch?v=ipwxYa-F1uY)
+- [Solidity Step By Step](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
+- [Solidity Step By Step 2](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
+- [Solidity Project Multisig Wallet](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVfvNOaEhBtA53XHyHo_oJo)
+
 ## Projects
 
 I highly recommended to build this projects to get started, don't thinks these are easy and simple app. Every one start from simple then create complex apps.
